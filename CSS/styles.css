@@ -1,0 +1,33 @@
+header {
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+    font-size: 60px;
+}
+
+.content {
+    text-align: center;
+    margin:60px;
+    border: solid #c7c5c5;
+    padding-top: 40px;
+    font-size: 40px;
+    padding-bottom: 400px;
+}
+input{
+    width: 50%;
+    height: 25px;
+}
+button {
+    background-color: #c9c8d0;
+    margin-top: 30px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(11, 11, 11);
+    width: 100px;
+}
+p {
+    color: rgb(90, 89, 89);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
